@@ -2,7 +2,7 @@
 * @Author: Andrey
 * @Date:   2017-04-09 14:22:27
 * @Last Modified by:   Andrey
-* @Last Modified time: 2017-04-09 14:48:58
+* @Last Modified time: 2017-04-09 14:51:58
 */
 
 <style>
@@ -18,7 +18,7 @@
             background-size: cover;
         }
         .div1 {
-            wide: 500px;
+            width: 500px;
             border-radius: 15px;
         }
     </style>
