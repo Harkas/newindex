@@ -2,7 +2,7 @@
 * @Author: Andrey
 * @Date:   2017-04-09 14:22:27
 * @Last Modified by:   Andrey
-* @Last Modified time: 2017-04-09 14:51:58
+* @Last Modified time: 2017-04-09 14:55:01
 */
 
 <style>
@@ -17,7 +17,7 @@
             background-position: center;
             background-size: cover;
         }
-        .div1 {
+        div {
             width: 500px;
             border-radius: 15px;
         }
