@@ -1,0 +1,20 @@
+﻿/*
+* @Author: Andrey
+* @Date:   2017-04-09 14:22:27
+* @Last Modified by:   Andrey
+* @Last Modified time: 2017-04-09 14:34:59
+*/
+
+<style>
+        html {
+            height: 100%;
+        }
+
+        body {
+            background-image: url("./img/bg.jpg");
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-position: center;
+            background-size: cover;
+        }
+    </style>
